@@ -43,18 +43,7 @@ ________________________________________________________________________________
 •	Ajuste de hiperparâmetros para otimização
 ➡ 5. Implementação da Interface para o Usuário
 •	Planejamento de um protótipo interativo para exibição dos resultados
-________________________________________________________________________________
-⚡ Como Executar o Projeto
 
-➡ 1. Clone o Repositório
-git clone https://github.com/fpaterni/PROJETO-III.git
-➡ 2. Instale as Dependências
-Certifique-se de ter o Python instalado e execute:
-pip install -r requirements.txt
-➡  3. Execute os Notebooks
-Os notebooks Jupyter contêm as análises e a implementação do modelo. Para rodá-los:
-jupyter notebook
-Abra o arquivo dentro da pasta notebooks/ e execute as células.
 ________________________________________________________________________________
 📎  Próximos Passos
 🔹 Refinamento do modelo com novas métricas de avaliação
